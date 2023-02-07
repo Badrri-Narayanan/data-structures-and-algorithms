@@ -9,3 +9,9 @@ buildNumber.properties
 .mvn/timing.properties
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
 .mvn/wrapper/maven-wrapper.jar
+
+# ignores all maven related and eclipse related files and folders
+**/target/
+**/.project
+**/.classpath
+**/.settings
