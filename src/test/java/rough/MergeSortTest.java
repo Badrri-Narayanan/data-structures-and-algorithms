@@ -1,11 +1,11 @@
 package rough;
 
-import static org.junit.jupiter.api.Assertions.assertArrayEquals;
+import static org.junit.Assert.assertArrayEquals;
 
 import java.util.Arrays;
 import java.util.Random;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 class MergeSortTest {
 
